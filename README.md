@@ -70,7 +70,7 @@ Ecommerce-Automation-Framework
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/MaieHamdy/Ecommerce-Automation-Framework.git
 ```
 
 Navigate to the project directory and run:
@@ -86,7 +86,7 @@ This framework integrates Allure Reports for test execution reporting.
 To generate and view the Allure report, use:
 
 ```bash
-allure serve allure-results
+allure serve target/allure-results
 ```
 
 ## Test Execution Results
